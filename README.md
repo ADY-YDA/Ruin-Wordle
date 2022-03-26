@@ -1,3 +1,3 @@
 # Ruin-Wordle
 
-# python parse.py
+What is a Wordle? Never played it, but I think some coding can help me cheat.
